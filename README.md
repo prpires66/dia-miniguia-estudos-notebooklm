@@ -272,20 +272,6 @@ Se sim, quais são as contradições ou complementaridades entre os autores?"
 
 ---
 
-## Estrutura do Repositório
-
-```
-miniguia-estudos-notebooklm/
-│
-├── README.md               ← Este arquivo (conteúdo completo do projeto)
-└── fontes/
-    ├── capablanca-chess-fundamentals.pdf
-    ├── znosko-borovsky-art-of-chess-combination.pdf
-    └── keres-common-chess-endings.pdf
-```
-
----
-
 ## Como reproduzir este projeto
 
 1. Acesse [notebooklm.google.com](https://notebooklm.google.com)
