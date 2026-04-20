@@ -41,7 +41,7 @@ As fontes foram escolhidas para cobrir três camadas do conhecimento:
 
 ---
 
-## Engenharia de Prompts e "Cicatrizes"
+## Engenharia de Prompts
 
 Esta seção documenta a jornada real de interação com o NotebookLM — incluindo o que funcionou, o que falhou e como os prompts foram refinados.
 
